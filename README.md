@@ -1,4 +1,4 @@
-NYC Airbnb Analysis Project
+*NYC Airbnb Analysis Project*
 
 Project Overview
 
