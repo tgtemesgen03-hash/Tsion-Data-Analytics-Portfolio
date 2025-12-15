@@ -21,7 +21,6 @@ notebooks/
  Final Project DATS 2102.ipynb # Jupyter Notebook with narrative and figures
 
 output/
-# Folium/Choropleths HTML files
  nyc_prices_map.html
  nyc_airbnb_nta_median_price_map.html
  nyc_airbnb_median_price_map.html 
