@@ -138,7 +138,7 @@ New York City Airbnb Open Data (2019)
 
 Source: Inside Airbnb / Kaggle
 
-URL: https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/NYC_Borough_Boundary/FeatureServer/0
+URL: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data 
 
 Accessed: December 2025
 
