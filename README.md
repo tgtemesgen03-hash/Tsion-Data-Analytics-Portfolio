@@ -13,34 +13,32 @@ Interactive dashboards and word cloud visualizations
 
 Folder Structure:
 project_folder/
-│
-├── data/
-│ ├── AB_NYC_2019.csv # Full dataset (from Kaggle)
-| │└── NTA.geo.json.txt # For Choropleth Neighborhood Map
-│ └── boroughs.geojson.txt # For Choropleth Borough Level Map
-│
-├── notebooks/
-│ └── Final Project DATS 2102.ipynb # Jupyter Notebook with narrative and figures
-│
-├── output/
-│ ├── # Folium/Choropleths HTML files
-│ │ └── nyc_prices_map.html
-│ │ └── nyc_airbnb_nta_median_price_map.html
-│ └── nyc_airbnb_median_price_map.html 
-│
-├── quarto-rendered html/
-│ └──  Final Project DATS 2102.html # Quarto rendered HTML version
-│
-├── slides/
-│ └── NYC_Airbnb_Presentation.pptx # Slide deck for presentation
-│
-├── recordings/
-│ └── demo_recording.m4a # 1–3 minute demo video/audio
-│
-├── docs/
-│ └── data_dictionary.ipynb # Data dictionary and schema
-│
-└── read_me.mb # This file
+ data/ AB_NYC_2019.csv # Full dataset (from Kaggle)
+ NTA.geo.json.txt # For Choropleth Neighborhood Map
+ boroughs.geojson.txt # For Choropleth Borough Level Map
+
+notebooks/
+ Final Project DATS 2102.ipynb # Jupyter Notebook with narrative and figures
+
+output/
+# Folium/Choropleths HTML files
+ nyc_prices_map.html
+ nyc_airbnb_nta_median_price_map.html
+ nyc_airbnb_median_price_map.html 
+
+quarto-rendered html/
+ Final Project DATS 2102.html # Quarto rendered HTML version
+
+slides/
+ NYC_Airbnb_Presentation.pptx # Slide deck for presentation
+
+recordings/
+ demo_recording.m4a # 1–3 minute demo video/audio
+
+docs/
+ data_dictionary.ipynb # Data dictionary and schema
+
+read_me.mb # This file
 
 
 Data Access:
