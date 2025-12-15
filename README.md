@@ -1,10 +1,10 @@
 **NYC Airbnb Analysis Project**
 
-Project Overview
+**Project Overview**
 
 This project explores New York City's Airbnb market using 2019 listings data. The goal is to understand pricing patterns, neighborhood trends, and factors that influence listing prices. Insights can help hosts optimize pricing and listings, and travelers make informed decisions.
 
-The analysis includes:
+**The analysis includes:**
 
 Data cleaning and preprocessing
 
@@ -20,7 +20,7 @@ Feature importance analysis
 
 Interactive dashboards and word cloud visualizations
 
-Folder Structure:
+**Folder Structure:**
 
 project_folder/
  
@@ -60,7 +60,7 @@ docs/
 read_me.mb # This file
 
 
-Data Access:
+**Data Access:**
 
 Primary Source:
 
@@ -75,7 +75,7 @@ import pandas as pd
 df = pd.read_csv("C://Users//Tsion T//Downloads//project_folder//data//AB_NYC_2019.csv")
 
 
-Dependencies:
+**Dependencies:**
 
 Python 3.9+
 
@@ -96,7 +96,7 @@ Scikit-learn
 WordCloud
 
 
-How to Run:
+**How to Run:**
 
 Open the notebook: project_folder/notebooks/Final Project DATS 2102.ipynb
 
@@ -119,7 +119,7 @@ Email: tgtemesgen03@gwu.edu
 Course / Project: NYC Airbnb Analysis, Data Visualization
 
 
-This README includes:
+**This README includes:**
 
 Project overview
 Folder structure
@@ -131,22 +131,35 @@ Data Sources
 
 
 
-Data Sources:
+**Data Sources:**
+
 New York City Airbnb Open Data (2019)
+
 Source: Inside Airbnb / Kaggle
+
 URL: https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/NYC_Borough_Boundary/FeatureServer/0
+
 Accessed: December 2025
+
 Description: Contains detailed Airbnb listing information for NYC, including prices, locations, room types, availability, and neighborhood data.
 
 NYC Neighborhood Tabulation Areas (NTA) GeoJSON
+
 Source: NYC Open Data
+
 URL: https://github.com/nycehs/NYC_geography/blob/master/NTA.geo.json
+
 Accessed: December 2025
+
 Used for choropleth mapping at the neighborhood level.
 
 NYC Borough Boundaries GeoJSON
+
 Source: NYC Open Data
+
 URL: https://www.arcgis.com/home/item.html?id=1f75b59e45444d7bae27454ec7730395&sublayer=0
+
 Accessed: December 2025
+
 Used for borough-level geographic visualizations.
 
